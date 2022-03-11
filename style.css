@@ -1,10 +1,15 @@
-body{
+body
+{
     text-align: center;
-    background-color:mistyrose;
 }
-#origami1{
-    background-color: coral;
+
+#app {
+    background-color: aliceblue;
 }
-#origami2{
-    background-color: coral;
+
+#myCarousel
+{
+    background-color: red;
 }
+
+
